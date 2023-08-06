@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Infigon/static/css/main.40ce80ff.chunk.css",
+    "main.js": "/Infigon/static/js/main.0ea43228.chunk.js",
+    "main.js.map": "/Infigon/static/js/main.0ea43228.chunk.js.map",
+    "runtime-main.js": "/Infigon/static/js/runtime-main.9e85ad72.js",
+    "runtime-main.js.map": "/Infigon/static/js/runtime-main.9e85ad72.js.map",
+    "static/js/2.b9b43ebb.chunk.js": "/Infigon/static/js/2.b9b43ebb.chunk.js",
+    "static/js/2.b9b43ebb.chunk.js.map": "/Infigon/static/js/2.b9b43ebb.chunk.js.map",
+    "static/js/3.0d3806da.chunk.js": "/Infigon/static/js/3.0d3806da.chunk.js",
+    "static/js/3.0d3806da.chunk.js.map": "/Infigon/static/js/3.0d3806da.chunk.js.map",
+    "index.html": "/Infigon/index.html",
+    "static/css/main.40ce80ff.chunk.css.map": "/Infigon/static/css/main.40ce80ff.chunk.css.map",
+    "static/js/2.b9b43ebb.chunk.js.LICENSE.txt": "/Infigon/static/js/2.b9b43ebb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e85ad72.js",
+    "static/js/2.b9b43ebb.chunk.js",
+    "static/css/main.40ce80ff.chunk.css",
+    "static/js/main.0ea43228.chunk.js"
+  ]
+}
